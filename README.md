@@ -222,3 +222,9 @@ Sreerag T
 ### Github
 
 https://github.com/Sreerag-T/blog-management-system
+
+
+### Admin Details
+
+username : admin
+password : admin@123
