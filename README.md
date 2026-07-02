@@ -59,7 +59,7 @@ blog-management-system/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/blog-management-system.git
+git clone https://github.com/Sreerag-T/blog-management-system.git
 ```
 
 Go to backend
@@ -217,3 +217,8 @@ DELETE /api/comments/<id>/
 ## Author
 
 Sreerag T
+
+
+### Github
+
+https://github.com/Sreerag-T/blog-management-system
